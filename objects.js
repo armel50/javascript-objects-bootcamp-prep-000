@@ -1,5 +1,5 @@
 var playlist={
- 
+ artist:"keff"
 };
 
 function updatePlaylist (playlist, artistName, songTitle){
